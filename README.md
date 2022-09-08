@@ -1,2 +1,8 @@
 # Recitation-012-10
-11111
+Team members:
+
+Aaron Asibbey
+
+Jacob Friedman
+
+Jingda Yu
