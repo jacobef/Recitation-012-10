@@ -1,5 +1,6 @@
 # Recitation-012-10
-Team members:
+Team members: Casper
+
 
 Aaron Asibbey
 
