@@ -4,5 +4,6 @@ Team members:
 Aaron Asibbey
 
 Jacob Friedman
+Jacob Friedman again (for lab 3)
 
 Jingda Yu
